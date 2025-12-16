@@ -2,6 +2,8 @@
 
 Welcome to the GiHub page of the [**VIS**ual **U**nderstanding **R**esearch **G**roup (VISURG)](https://visurg.ai) at [King's College London](https://www.kcl.ac.uk/).
 
+<h3>List of projects organized by topic</h3>
+
 * Self-supervised learning:
    * [A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking](https://github.com/visurg-ai/PL-Stitch)
   
