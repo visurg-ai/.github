@@ -5,7 +5,7 @@ Welcome to the GiHub page of the [**VIS**ual **U**nderstanding **R**esearch **G*
 <h3>List of projects organized by topic</h3>
 
 * Self-supervised learning:
-   * [A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking](https://github.com/visurg-ai/PL-Stitch)
+   * [2025] [A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking](https://github.com/visurg-ai/PL-Stitch)
   
 * Datasets:
-   * [LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings](https://github.com/visurg-ai/LEMON)
+   * [2025] [LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings](https://github.com/visurg-ai/LEMON)
